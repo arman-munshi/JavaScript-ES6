@@ -21,4 +21,4 @@ const employee = {
 
 
 // optional chaining , thats why use Question mark.
-console.log(employee.family?.mother?.name)
+console.log(employee.family?.mother?.name) 
